@@ -4,7 +4,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.1-green)](https://pandas.pydata.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit-learn-1.3-orange)](https://scikit-learn.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit-learn-1.5.2-orange)](https://github.com/scikit-learn/scikit-learn)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.0-yellow)](https://xgboost.readthedocs.io)
+[![SHAP](https://img.shields.io/badge/SHAP-0.46-red)](https://shap.readthedocs.io)
 
 ## 📊 Описание данных
 - **Источник**: [Kaggle Florist Shop Dataset](https://www.kaggle.com/datasets/xavierberge/florist-shop-dataset)
